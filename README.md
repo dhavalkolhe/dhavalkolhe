@@ -3,21 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhavalkolhe&label=Profile%20views&color=0e75b6&style=flat" alt="dhavalkolhe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dhaval_kolhe" target="blank"><img src="https://img.shields.io/twitter/follow/dhaval_kolhe?logo=twitter&style=for-the-badge" alt="dhaval_kolhe" /></a> </p>
 
-- 🔭 I’m currently working on **Froent-end Projects**
 
-- 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate for **building ethereum based web applications**
-
-- 💬 Ask me about **CSS, JavaScript**
 
 - 📫 How to reach me **network@dhavalkolhe.me**
 
-- 📄 Know about my experiences [xyzz](xyzz)
-
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
