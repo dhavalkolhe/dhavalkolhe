@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/dhaval_kolhe" target="blank"><img src="https://img.shields.io/twitter/follow/dhaval_kolhe?logo=twitter&style=for-the-badge" alt="dhaval_kolhe" /></a> </p>
 
-- 👯 I’m looking to collaborate for **lications**
+
 
 - 📫 How to reach me **network@dhavalkolhe.me**
 
-- 📄 Know about my experiences [xyzz](xyzz)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
